@@ -32,7 +32,7 @@ Mobile:
 
 ### Links
 
-- Repository URL: [Add solution URL here](https://your-solution-url.com)
+- Repository URL: [https://github.com/Subject6735/social-proof-section](https://github.com/Subject6735/social-proof-section)
 - Live Site URL: [https://subject6735.github.io/social-proof-section/](https://subject6735.github.io/social-proof-section/)
 
 ## My process
