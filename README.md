@@ -6,7 +6,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,20 +19,9 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
-### Screenshot
-
-Desktop:
-
-![](screenshots/screenshot_desktop.jpg)
-
-Mobile:
-
-![](screenshots/screenshot_mobile.jpg)
-
 ### Links
 
-- Repository URL: [https://github.com/Subject6735/social-proof-section](https://github.com/Subject6735/social-proof-section)
-- Live Site URL: [https://subject6735.github.io/social-proof-section/](https://subject6735.github.io/social-proof-section/)
+- [Live site](https://mdeme01.github.io/social-proof-section/)
 
 ## My process
 
@@ -45,4 +33,4 @@ Mobile:
 
 ## Author
 
-- Frontend Mentor - [@Subject6735](https://www.frontendmentor.io/profile/Subject6735)
+- Frontend Mentor - [@mdeme01](https://www.frontendmentor.io/profile/mdeme01)
